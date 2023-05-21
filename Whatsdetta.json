@@ -49,14 +49,14 @@
                 #ffffff
                 #ffffff
         ],
-        
+
             },
     "rawColors": {
 
             },
     "background": {
         "blur": 0.1,
-        "url": "https://wdfiles.ru/plugins/imageviewer/site/thumb.php?s=ad4005e",
+        "url": "https://github.com/squat9042/vendetta-themes/blob/44ade722eda6d9885a24c76000ae95a1601da2e5/2vfHP2A.png",
         "alpha": 0.33
     }
 }
