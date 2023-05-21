@@ -34,6 +34,21 @@
                 #a3a6ab
                 #a3a6ab
         ],
+        "INTERACTIVE_NORMAL":[
+                #121b22
+                #121b22
+                #121b22
+        ],
+        "INTERACTIVE_HOVER":[
+                #0e151b
+                #0e151b
+                #0e151b
+        ],
+        "INTERACTIVE_ACTIVE":[
+                #ffffff
+                #ffffff
+                #ffffff
+        ],
         
             },
     "rawColors": {
