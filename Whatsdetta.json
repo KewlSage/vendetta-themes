@@ -1,0 +1,47 @@
+{
+    "name": "Greenfinch",
+    "description": "A Greenfinch theme with green mountains.",
+    "authors": [
+        {
+            "name": "Siwe",
+            "id": "487876087330635810"
+        }
+    ],
+    "spec": 2,
+    "semanticColors": {
+        "HEADER_PRIMRARY": [
+                #fefffd
+                #fefffd
+                #fefffd
+            ],
+        "HEADER_SECONDARY":[
+                #bbbcc0
+                #bbbcc0
+                #bbbcc0
+        ],
+        "TEXT_LINK":[
+                #14a083
+                #14a083
+                #14a083
+        ],
+        "TEXT_NORMAL": [
+                #fefffd
+                #fefffd
+                #fefffd
+            ],
+        "TEXT_MUTED":[
+                #a3a6ab
+                #a3a6ab
+                #a3a6ab
+        ],
+        
+            },
+    "rawColors": {
+
+            },
+    "background": {
+        "blur": 0.1,
+        "url": "https://wdfiles.ru/plugins/imageviewer/site/thumb.php?s=ad4005e",
+        "alpha": 0.33
+    }
+}
