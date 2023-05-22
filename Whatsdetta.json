@@ -48,13 +48,44 @@
                 "#FFFFFF",
                 "#FFFFFF",
                 "#FFFFFF"
+                ],
+                "BACKGROUND_PRIMRARY": [
+                        "#131b22",
+                        "#131b22",
+                        "#131b22"
+                ],
+                "BACKGROUND_SECONDARY": [
+                        "#131b22",
+                        "#131b22",
+                        "#131b22"
+                ],
+                "BACKGROUND_SECONDARY_ALT":[
+                        "#202d34",
+                        "#202d34",
+                        "#202d34"
+                ],
+                "BACKGROUND_TERTIARY": [
+                        "#192327",
+                        "#192327",
+                        "#192327"
+                ],
+                "BACKGROUND_ACCENT":[
+                        "#0ebc84",
+                        "#0ebc84",
+                        "#0ebc84"
+                ],
+                "BACKGROUND_MOBILE_SECONDARY": [
+                        "#141b22",
+                        "#141b22",
+                        "#141b22"
                 ]
+
 
 
         },
         "rawColors": {
                 "BRAND_260": "#005d4b",
-                "BRAND_500": "#0ebc84",
+                "BRAND_500": "##0ebc84",
                 "BRAND_560": "#5fcbba",
                 "GREEN_360": "#0a5943",  
                 "RED_400": "#0ebc85",
@@ -63,6 +94,6 @@
         "background": {
                 "blur": 0,
                 "url": "https://raw.githubusercontent.com/squat9042/vendetta-themes/main/Images/2vfHP2A.png",
-                "alpha": 0.33
+                "alpha": 1
         }
 }
