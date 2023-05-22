@@ -156,7 +156,8 @@
                 "PRIMARY_100": "#202d34",
                 "PRIMARY_600": "#131b22",
                 "PRIMARY_630": "#131b22",
-                "PRIMARY_800": "#131c22"
+                "PRIMARY_800": "#131c22",
+                "PRIMARY_700": "#131c22"
         },
         "background": {
                 "blur": 0,
