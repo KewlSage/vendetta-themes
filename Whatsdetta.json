@@ -153,7 +153,11 @@
                 "BRAND_560": "#5fcbba",
                 "GREEN_360": "#0a5943",
                 "RED_400": "#0ebc85",
-                "YELLOW_300": "#0dbc86"
+                "YELLOW_300": "#0dbc86",
+                "PRIMARY_100": "#202d34",
+                "PRIMARY_600": "#131b22",
+                "PRIMARY_630": "#131b22",
+                "PRIMARY_800": "#131c22"
         },
         "background": {
                 "blur": 0,
