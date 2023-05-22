@@ -1,62 +1,59 @@
 {
-    "name": "Greenfinch",
-    "description": "A Greenfinch theme with green mountains.",
-    "authors": [
-        {
-            "name": "Siwe",
-            "id": "487876087330635810"
+        "name": "Whatsdetta",
+        "description": "Make Discord look like Whatsapp",
+        "authors": [
+                {
+                        "name": "squat",
+                        "id": "532659532170657792"
+                }
+        ],
+        "spec": 2,
+        "semanticColors": {
+                "HEADER_PRIMRARY": [
+                #FEFFFD
+                #FEFFFD
+                #FEFFFD
+                ],
+                "HEADER_SECONDARY": [
+                #BBBCC0
+                #BBBCC0
+                #BBBCC0
+                ],
+                "TEXT_LINK": [
+                #14A083
+                #14A083
+                #14A083
+                ],
+                "TEXT_NORMAL": [
+                #FEFFFD
+                #FEFFFD
+                #FEFFFD
+                ],
+                "TEXT_MUTED": [
+                #A3A6AB
+                #A3A6AB
+                #A3A6AB
+                ],
+                "INTERACTIVE_NORMAL": [
+                #121B22
+                #121B22
+                #121B22
+                ],
+                "INTERACTIVE_HOVER": [
+                #0E151B
+                #0E151B
+                #0E151B
+                ],
+                "INTERACTIVE_ACTIVE": [
+                #FFFFFF
+                #FFFFFF
+                #FFFFFF
+                ],
+        },
+        "rawColors": {},
+        "background": {
+                "blur": 0,
+                "url": "https://github.com/squat9042/vendetta-themes/blob/44ade722eda6d9885a24c76000ae95a1601da2e5/2vfHP2A.png",
+                "alpha": 0.33
         }
-    ],
-    "spec": 2,
-    "semanticColors": {
-        "HEADER_PRIMRARY": [
-                #fefffd
-                #fefffd
-                #fefffd
-            ],
-        "HEADER_SECONDARY":[
-                #bbbcc0
-                #bbbcc0
-                #bbbcc0
-        ],
-        "TEXT_LINK":[
-                #14a083
-                #14a083
-                #14a083
-        ],
-        "TEXT_NORMAL": [
-                #fefffd
-                #fefffd
-                #fefffd
-            ],
-        "TEXT_MUTED":[
-                #a3a6ab
-                #a3a6ab
-                #a3a6ab
-        ],
-        "INTERACTIVE_NORMAL":[
-                #121b22
-                #121b22
-                #121b22
-        ],
-        "INTERACTIVE_HOVER":[
-                #0e151b
-                #0e151b
-                #0e151b
-        ],
-        "INTERACTIVE_ACTIVE":[
-                #ffffff
-                #ffffff
-                #ffffff
-        ],
-
-            },
-    "rawColors": {
-
-            },
-    "background": {
-        "blur": 0.1,
-        "url": "https://github.com/squat9042/vendetta-themes/blob/44ade722eda6d9885a24c76000ae95a1601da2e5/2vfHP2A.png",
-        "alpha": 0.33
-    }
 }
