@@ -1,6 +1,6 @@
 {
         "name": "Whatsdetta",
-        "description": "Make Discord look like Whatsapp",
+        "description": "Make Discord look like Whatsapp. Made for Aliucord by Lanney",
         "authors": [
                 {
                         "name": "squat",
@@ -35,9 +35,9 @@
                         "#A3A6AB"
                 ],
                 "INTERACTIVE_NORMAL": [
-                        "#8c989f",
-                        "#8c989f",
-                        "#8c989f"
+                        "#FEFFFD",
+                        "#FEFFFD",
+                        "#FEFFFD"
                 ],
                 "INTERACTIVE_HOVER": [
                         "#0E151B",
