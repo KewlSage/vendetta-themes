@@ -10,44 +10,44 @@
         "spec": 2,
         "semanticColors": {
                 "HEADER_PRIMRARY": [
-                "#FEFFFD",
-                "#FEFFFD",
-                "#FEFFFD"
+                        "#FEFFFD",
+                        "#FEFFFD",
+                        "#FEFFFD"
                 ],
                 "HEADER_SECONDARY": [
-                "#BBBCC0",
-                "#BBBCC0",
-                "#BBBCC0"
+                        "#BBBCC0",
+                        "#BBBCC0",
+                        "#BBBCC0"
                 ],
                 "TEXT_LINK": [
-                "#14A083",
-                "#14A083",
-                "#14A083"
+                        "#14A083",
+                        "#14A083",
+                        "#14A083"
                 ],
                 "TEXT_NORMAL": [
-                "#FEFFFD",
-                "#FEFFFD",
-                "#FEFFFD"
+                        "#FEFFFD",
+                        "#FEFFFD",
+                        "#FEFFFD"
                 ],
                 "TEXT_MUTED": [
-                "#A3A6AB",
-                "#A3A6AB",
-                "#A3A6AB"
+                        "#A3A6AB",
+                        "#A3A6AB",
+                        "#A3A6AB"
                 ],
                 "INTERACTIVE_NORMAL": [
-                "#121B22",
-                "#121B22",
-                "#121B22"
+                        "#121B22",
+                        "#121B22",
+                        "#121B22"
                 ],
                 "INTERACTIVE_HOVER": [
-                "#0E151B",
-                "#0E151B",
-                "#0E151B"
+                        "#0E151B",
+                        "#0E151B",
+                        "#0E151B"
                 ],
                 "INTERACTIVE_ACTIVE": [
-                "#FFFFFF",
-                "#FFFFFF",
-                "#FFFFFF"
+                        "#FFFFFF",
+                        "#FFFFFF",
+                        "#FFFFFF"
                 ],
                 "BACKGROUND_PRIMRARY": [
                         "#131b22",
@@ -59,7 +59,7 @@
                         "#131b22",
                         "#131b22"
                 ],
-                "BACKGROUND_SECONDARY_ALT":[
+                "BACKGROUND_SECONDARY_ALT": [
                         "#202d34",
                         "#202d34",
                         "#202d34"
@@ -69,7 +69,7 @@
                         "#192327",
                         "#192327"
                 ],
-                "BACKGROUND_ACCENT":[
+                "BACKGROUND_ACCENT": [
                         "#0ebc84",
                         "#0ebc84",
                         "#0ebc84"
@@ -84,12 +84,61 @@
                         "#121c22",
                         "#121c22"
                 ],
-                "BACKGROUND_MODIFIER_SELECTED": [
+                "BACKGROUND_MOBILE_PRIMARY": [
                         "#121c22",
                         "#121c22",
                         "#121c22"
+                ],
+                "BACKGROUND_MODIFIER_HOVER": [
+                        "#121c22",
+                        "#121c22",
+                        "#121c22"
+                ],
+                "BACKGROUND_MODIFIER_SELECTED": [
+                        "#08684c",
+                        "#08684c",
+                        "#08684c"
+                ],
+                "BACKGROUND_MODIFIER_ACCENT": [
+                      "#131b22",
+                      "#131b22",
+                      "#131b22"  
+                ],
+                "CHANNEL_ICON": [
+                        "#84989f",
+                        "#84989f",
+                        "#84989f"
+                ],
+                "SCROLLBAR_THIN_THUMB": [
+                        "#838b8e",
+                        "#838b8e",
+                        "#838b8e"
+                ],
+                "SCROLLBAR_THIN_TRACK": [
+                        "#838b8e",
+                        "#838b8e",
+                        "#838b8e"
+                ],
+                "SCROLLBAR_AUTO_THUMB": [
+                        "#838b8e",
+                        "#838b8e",
+                        "#838b8e"
+                ],
+                "SCROLLBAR_AUTO_TRACK": [
+                        "#838b8e",
+                        "#838b8e",
+                        "#838b8e"
+                ],
+                "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+                        "#858b92",
+                        "#858b92",
+                        "#858b92"
+                ],
+                "SPOILER_HIDDEN_BACKGROUND": [
+                        "#292e31",
+                        "#292e31",
+                        "#292e31"
                 ]
-
 
 
         },
@@ -97,7 +146,7 @@
                 "BRAND_260": "#005d4b",
                 "BRAND_500": "##0ebc84",
                 "BRAND_560": "#5fcbba",
-                "GREEN_360": "#0a5943",  
+                "GREEN_360": "#0a5943",
                 "RED_400": "#0ebc85",
                 "YELLOW_300": "#0dbc86"
         },
