@@ -10,47 +10,56 @@
         "spec": 2,
         "semanticColors": {
                 "HEADER_PRIMRARY": [
-                #FEFFFD
-                #FEFFFD
-                #FEFFFD
+                "#FEFFFD",
+                "#FEFFFD",
+                "#FEFFFD"
                 ],
                 "HEADER_SECONDARY": [
-                #BBBCC0
-                #BBBCC0
-                #BBBCC0
+                "#BBBCC0",
+                "#BBBCC0",
+                "#BBBCC0"
                 ],
                 "TEXT_LINK": [
-                #14A083
-                #14A083
-                #14A083
+                "#14A083",
+                "#14A083",
+                "#14A083"
                 ],
                 "TEXT_NORMAL": [
-                #FEFFFD
-                #FEFFFD
-                #FEFFFD
+                "#FEFFFD",
+                "#FEFFFD",
+                "#FEFFFD"
                 ],
                 "TEXT_MUTED": [
-                #A3A6AB
-                #A3A6AB
-                #A3A6AB
+                "#A3A6AB",
+                "#A3A6AB",
+                "#A3A6AB"
                 ],
                 "INTERACTIVE_NORMAL": [
-                #121B22
-                #121B22
-                #121B22
+                "#121B22",
+                "#121B22",
+                "#121B22"
                 ],
                 "INTERACTIVE_HOVER": [
-                #0E151B
-                #0E151B
-                #0E151B
+                "#0E151B",
+                "#0E151B",
+                "#0E151B"
                 ],
                 "INTERACTIVE_ACTIVE": [
-                #FFFFFF
-                #FFFFFF
-                #FFFFFF
-                ],
+                "#FFFFFF",
+                "#FFFFFF",
+                "#FFFFFF"
+                ]
+
+
         },
-        "rawColors": {},
+        "rawColors": {
+                "BRAND_260": "#005d4b",
+                "BRAND_500": "#0ebc84",
+                "BRAND_560": "#5fcbba",
+                "GREEN_360": "#0a5943",  
+                "RED_400": "#0ebc85",
+                "YELLOW_300": "#0dbc86"
+        },
         "background": {
                 "blur": 0,
                 "url": "https://raw.githubusercontent.com/squat9042/vendetta-themes/main/Images/2vfHP2A.png",
