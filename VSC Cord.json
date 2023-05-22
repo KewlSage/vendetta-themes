@@ -1,0 +1,30 @@
+{
+    "name": "VSCdetta",
+    "description": "Discord but it looks like Visual Studio Code",
+    "authors": [
+            {
+                    "name": "squat",
+                    "id": "532659532170657792"
+            }
+    ],
+    "spec": 2,
+    "semanticColors": {
+        "HEADER_PRIMRARY": [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+        ],
+        "HEADER_SECONDARY": [
+            "#b9bbbe",
+            "#b9bbbe",
+            "#b9bbbe"
+        ],
+        "TEXT_NORMAL": [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+        ]
+
+
+    }
+}
