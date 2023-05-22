@@ -78,6 +78,16 @@
                         "#141b22",
                         "#141b22",
                         "#141b22"
+                ],
+                "BACKGROUND_FLOATING": [
+                        "#121c22",
+                        "#121c22",
+                        "#121c22"
+                ],
+                "BACKGROUND_MODIFIER_SELECTED": [
+                        "#121c22",
+                        "#121c22",
+                        "#121c22"
                 ]
 
 
