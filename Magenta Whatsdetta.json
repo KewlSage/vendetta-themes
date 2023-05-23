@@ -1,0 +1,166 @@
+{
+    "name": "Magenta Whatsdetta",
+    "description": "Magenta version of Whatsdetta. Original made for Aliucord by Lanney",
+    "authors": [
+        {
+            "name": "squat",
+            "id": "532659532170657792"
+        }
+    ],
+    "spec": 2,
+    "semanticColors": {
+        "HEADER_PRIMRARY": [
+            "#FEFFFD",
+            "#FEFFFD",
+            "#FEFFFD"
+        ],
+        "HEADER_SECONDARY": [
+            "#BBBCC0",
+            "#BBBCC0",
+            "#BBBCC0"
+        ],
+        "TEXT_LINK": [
+            "#7000a2",
+            "#7000a2",
+            "#7000a2"
+        ],
+        "TEXT_NORMAL": [
+            "#FEFFFD",
+            "#FEFFFD",
+            "#FEFFFD"
+        ],
+        "TEXT_MUTED": [
+            "#4b4b55",
+            "#4b4b55",
+            "#4b4b55"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#FEFFFD",
+            "#FEFFFD",
+            "#FEFFFD"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#3b0055",
+            "#3b0055",
+            "#3b0055"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#FFFFFF",
+            "#FFFFFF",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_PRIMRARY": [
+            "#1e0020",
+            "#1e0020",
+            "#1e0020"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#310034",
+            "#310034",
+            "#310034"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#310035",
+            "#310035",
+            "#310035"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#38003c",
+            "#38003c",
+            "#38003c"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#8000a3",
+            "#8000a3",
+            "#8000a3"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#310034",
+            "#310034",
+            "#310034"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#54005b",
+            "#54005b",
+            "#54005b"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#46004c",
+            "#46004c",
+            "#46004c"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#310035",
+            "#310035",
+            "#310035"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#4f0069",
+            "#4f0069",
+            "#4f0069"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#4f0069",
+            "#4f0069",
+            "#4f0069"
+        ],
+        "CHANNEL_ICON": [
+            "#9c80a0",
+            "#9c80a0",
+            "#9c80a0"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#838b8e",
+            "#838b8e",
+            "#838b8e"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "#838b8e",
+            "#838b8e",
+            "#838b8e"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#838b8e",
+            "#838b8e",
+            "#838b8e"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#838b8e",
+            "#838b8e",
+            "#838b8e"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#a08ba5",
+            "#a08ba5",
+            "#a08ba5"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#300035",
+            "#300035",
+            "#300035"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#310035",
+            "#310035",
+            "#310035"
+        ]
+    },
+    "rawColors": {
+        "BRAND_260": "#53006a",
+        "BRAND_500": "##7f00a3",
+        "BRAND_560": "#7e00a1",
+        "GREEN_360": "#0a5943",
+        "RED_400": "#7d00a3",
+        "YELLOW_300": "#6100a3",
+        "PRIMARY_100": "#FFFFFF",
+        "PRIMARY_600": "#310035",
+        "PRIMARY_630": "#310035",
+        "PRIMARY_800": "#310035",
+        "PRIMARY_700": "#310035"
+    },
+    "background": {
+        "blur": 0,
+        "url": "https://raw.githubusercontent.com/squat9042/vendetta-themes/main/Images/2vfHP2A.png",
+        "alpha": 1
+    }
+}
