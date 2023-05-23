@@ -167,7 +167,8 @@
                 "PRIMARY_100": "#ffffff",
                 "PRIMARY_600": "#131b22",
                 "PRIMARY_630": "#131b22",
-                "PRIMARY_800": "#131c22"
+                "PRIMARY_800": "#131c22",
+                "PRIMARY_200": "#ffffff"
 
         },
         "background": {
