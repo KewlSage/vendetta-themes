@@ -1,5 +1,5 @@
 {
-        "name": "Whatsdetta",
+        "name": "Tetstetta",
         "description": "Make Discord look like Whatsapp. Made for Aliucord by Lanney",
         "authors": [
                 {
@@ -163,7 +163,7 @@
         },
         "rawColors": {
                 "BRAND_260": "#005d4b",
-                "BRAND_500": "##0ebc84",
+                "BRAND_500": "#008369",
                 "BRAND_560": "#5fcbba",
 
 
@@ -184,7 +184,8 @@
         "background": {
                 "blur": 0,
                 "url": "https://raw.githubusercontent.com/squat9042/vendetta-themes/main/Images/2vfHP2A.png",
-                "alpha": 0.5
+                "alpha": 0.5,
+                "color": "#005d4b"
         }
 }
 
