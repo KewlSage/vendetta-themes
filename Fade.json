@@ -25,9 +25,9 @@
             "#FEFFFD"
         ],
         "TEXT_MUTED": [
-            "#4b4b55",
-            "#4b4b55",
-            "#4b4b55"
+            "#BBBCC0",
+            "#BBBCC0",
+            "#BBBCC0"
         ],
         "INTERACTIVE_NORMAL": [
             "#FEFFFD",
@@ -35,9 +35,9 @@
             "#FEFFFD"
         ],
         "TEXT_LINK":[
-            "#3c09aa",
-            "#3c09aa",
-            "#3c09aa"
+            "#560df6",
+            "#560df6",
+            "#560df6"
         ],
         "INTERACTIVE_HOVER": [
             "#170343",
@@ -75,9 +75,9 @@
             "#7722a0"
         ],
         "BACKGROUND_MOBILE_SECONDARY":[
-            "#0b0f20",
-            "#0b0f20",
-            "#0b0f20"
+            "#0B0F20",
+            "#0B0F20",
+            "#0B0F20"
         ],
         "BACKGROUND_MODIFIER_ACTIVE":[
             "#0b0f20",
@@ -98,6 +98,16 @@
             "#FFFFFF",
             "#FFFFFF",
             "#FFFFFF"
+        ],
+        "CHAT_BACKGROUND":[
+            "#061a2c",
+            "#061a2c",
+            "#061a2c"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND":[
+            "#0b3052",
+            "#0b3052",
+            "#0b3052"
         ]
 
 
@@ -113,13 +123,8 @@
         "PRIMARY_600": "#061a2c",
         "PRIMARY_630": "#061a2c",
         "PRIMARY_800": "#061a2c",
-        "PRIMARY_700": "#061a2c"
-    },
-
-    "background": {
-            "blur": 0,
-            "url": "https://raw.githubusercontent.com/squat9042/vendetta-themes/main/Images/4wX8JGet.png",
-            "alpha": 0.5,
-            "color": "#218ae0" 
+        "PRIMARY_700": "#061a2c",
+        "PRIMARY_200": "#FFFFFF"
     }
+
 }
